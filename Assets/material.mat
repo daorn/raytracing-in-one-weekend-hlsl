@@ -12,8 +12,7 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
-  m_InvalidKeywords:
-  - _RESETCAMERAPOS_ON
+  m_InvalidKeywords: []
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -64,30 +63,30 @@ Material:
     m_Floats:
     - _AspectRatio: 1.7778
     - _BumpScale: 1
-    - _CameraPositionX: 0.2
-    - _CameraPositionY: 0
-    - _CameraPositionZ: 0
+    - _CameraPositionX: -0.3
+    - _CameraPositionY: 0.38
+    - _CameraPositionZ: 0.4
     - _Cutoff: 0.5
     - _Density: 21.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _FocalLength: 1
-    - _FuzzinessRightSphere: 0.16
+    - _FuzzinessRightSphere: 0.394
     - _GlassRefIdx: 1.24
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _ImageWidth: 400
-    - _LookAtX: 0
-    - _LookAtY: 0
-    - _LookAtZ: -1
-    - _MaxBounces: 27.5
+    - _LookAtX: 0.7
+    - _LookAtY: -3
+    - _LookAtZ: -10
+    - _MaxBounces: 31.4
     - _Metallic: 0
     - _Mode: 0
-    - _NumSamples: 508
+    - _NumSamples: 2393
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _ResetCameraPos: 1
+    - _ResetCameraPos: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SphereX: -1

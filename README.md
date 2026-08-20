@@ -1,1 +1,3 @@
-# raytracing-in-one-weekend-hlsl
+# Raytracing in One Weekend HLSL
+
+![screenshot](./Screenshots/screenshot_1.png)
